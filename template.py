@@ -16,10 +16,10 @@ list_of_files = [
     f"src/{package_name}/logger.py",
     f"src/{package_name}/exception.py",
     f"src/{package_name}/utils/__init.py",
-    "notebook/research.ipynb"
-    "notebook/data/.gitkeep"
-    "requirement.txt"
-    "setup.py"
+    "notebook/research.ipynb",
+    "notebook/data/.gitkeep",
+    "requirement.txt",
+    "setup.py",
     "init_setup.sh"
 ]
 
